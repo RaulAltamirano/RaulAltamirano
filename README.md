@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# ¡Hi! 👋
 
 Bienvenido a mi perfil de GitHub. Soy Raul, un apasionado desarrollador de software con experiencia en varias tecnologías de vanguardia. A continuación, encontrarás un resumen de las tecnologías con las que trabajo, representadas en gráficas y estadísticas:
 
