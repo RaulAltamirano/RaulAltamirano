@@ -13,9 +13,9 @@ Bienvenido a mi perfil de GitHub. Soy Raul, un apasionado desarrollador de softw
 
 ## Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)](https://github.com/tu_usuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAltamirano&layout=compact&theme=dark)](https://github.com/RaulAltamirano)
 
 ## Contacto
 
