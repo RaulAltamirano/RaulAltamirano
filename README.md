@@ -1,6 +1,9 @@
 # ¡Hola! 👋
 
 Bienvenido a mi perfil de GitHub. Soy Raul, un apasionado desarrollador de software con experiencia en varias tecnologías de vanguardia. A continuación, encontrarás un resumen de las tecnologías con las que trabajo
+## Estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=dark)
 
 ## Tecnologías
 
