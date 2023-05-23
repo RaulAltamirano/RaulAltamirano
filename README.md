@@ -13,13 +13,15 @@ Bienvenido a mi perfil de GitHub. Soy Raul, un apasionado desarrollador de softw
 
 ## Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)](https://github.com/tu_usuario)
 
 ## Contacto
 
 Si deseas contactarme o colaborar en algún proyecto, puedes encontrarme en las siguientes plataformas:
 
-- [LinkedIn](enlace a tu perfil de LinkedIn)
-- [Correo electrónico](tu dirección de correo electrónico)
+- [LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/)
+- [Correo electrónico](rulomania2011@hotmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante aquí y no dudes en contactarme si tienes alguna pregunta o sugerencia.
