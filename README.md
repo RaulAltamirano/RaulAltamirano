@@ -1,101 +1,25 @@
-<html>
-<head>
-  <title>Mi Perfil de GitHub</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f7f7f7;
-    }
+# ¡Hola! 👋
 
-    h1 {
-      color: #333;
-    }
+Bienvenido a mi perfil de GitHub. Soy Raul, un apasionado desarrollador de software con experiencia en varias tecnologías de vanguardia. A continuación, encontrarás un resumen de las tecnologías con las que trabajo, representadas en gráficas y estadísticas:
 
-    .technologies {
-      display: flex;
-      flex-wrap: wrap;
-      margin-top: 20px;
-    }
+## Tecnologías
 
-    .technology {
-      display: flex;
-      align-items: center;
-      margin-right: 10px;
-      margin-bottom: 10px;
-      padding: 6px 12px;
-      border-radius: 4px;
-      background-color: #eee;
-      color: #333;
-      font-size: 14px;
-    }
+- **React**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+- **Vue**: ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+- **Nest.js**: ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+- **Docker**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+- **PostgreSQL**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+- **MongoDB**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-    .projects {
-      margin-top: 20px;
-    }
+## Estadísticas
 
-    .project {
-      margin-bottom: 10px;
-    }
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=dark)
 
-    .contact {
-      margin-top: 20px;
-    }
+## Contacto
 
-    .contact a {
-      margin-right: 10px;
-    }
-  </style>
-</head>
-<body>
-  <h1>¡Hola! 👋</h1>
+Si deseas contactarme o colaborar en algún proyecto, puedes encontrarme en las siguientes plataformas:
 
-  <p>Bienvenido a mi perfil de GitHub. Soy <strong>[tu nombre]</strong>, un apasionado desarrollador de software con experiencia en varias tecnologías de vanguardia. A continuación, encontrarás un resumen de las tecnologías con las que trabajo:</p>
+- [LinkedIn](enlace a tu perfil de LinkedIn)
+- [Correo electrónico](tu dirección de correo electrónico)
 
-  <div class="technologies">
-    <div class="technology">
-      <img src="icons/react.png" alt="React" width="20" height="20">
-      <span>React</span>
-    </div>
-    <div class="technology">
-      <img src="icons/vue.png" alt="Vue" width="20" height="20">
-      <span>Vue</span>
-    </div>
-    <div class="technology">
-      <img src="icons/nestjs.png" alt="Nest.js" width="20" height="20">
-      <span>Nest.js</span>
-    </div>
-    <div class="technology">
-      <img src="icons/docker.png" alt="Docker" width="20" height="20">
-      <span>Docker</span>
-    </div>
-    <div class="technology">
-      <img src="icons/postgresql.png" alt="PostgreSQL" width="20" height="20">
-      <span>PostgreSQL</span>
-    </div>
-    <div class="technology">
-      <img src="icons/mongodb.png" alt="MongoDB" width="20" height="20">
-      <span>MongoDB</span>
-    </div>
-  </div>
-
-  <div class="projects">
-    <h2>Proyectos destacados</h2>
-    <div class="project">
-      <a href="enlace al repositorio"><strong>Nombre del proyecto 1</strong></a>
-      <p>Breve descripción del proyecto y las tecnologías utilizadas.</p>
-    </div>
-    <div class="project">
-      <a href="enlace al repositorio"><strong>Nombre del proyecto 2</strong></a>
-      <p>Breve descripción del proyecto y las tecnologías utilizadas.</p>
-    </div>
-  </div>
-
-  <div class="contact">
-    <h2>Contacto</h2>
-    <a href="enlace a tu perfil de LinkedIn">LinkedIn</a>
-    <a href="tu dirección de correo electrónico">Correo electrónico</a>
-  </div>
-</body>
-</html>
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante aquí y no dudes en contactarme si tienes alguna pregunta o sugerencia.
