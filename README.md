@@ -8,37 +8,25 @@ Bienvenido a mi perfil de GitHub. Soy Raul, un apasionado desarrollador de softw
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-Breve descripción de React y su uso.
-
 ### Vue
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-
-Breve descripción de Vue y su uso.
 
 ### Nest.js
 
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 
-Breve descripción de Nest.js y su uso.
-
 ### Docker
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
-Breve descripción de Docker y su uso.
-
 ### PostgreSQL
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-
-Breve descripción de PostgreSQL y su uso.
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) 
 
 ### MongoDB
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
-Breve descripción de MongoDB y su uso.
 
 <!-- ## Proyectos destacados
 
