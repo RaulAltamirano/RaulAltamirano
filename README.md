@@ -10,9 +10,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-DC0230?style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
@@ -39,6 +40,9 @@
   <a href="https://github.com/RaulAltamirano">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAltamirano&theme=transparent&layout=compact&hide_border=true" alt="Top Languages" />
   </a>
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=transparent&layout=compact&hide_border=true" alt="RaulAltamirano" />
+  </a>
 </div>
 <br/>
 <h3 align="center">Connect with me:</h3>
@@ -53,3 +57,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
