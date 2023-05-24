@@ -42,5 +42,14 @@
 </div>
 <br/>
 <h3 align="center">Connect with me:</h3>
-<div align="center" id="socialIcons"></div>
-<script src="script.js"></script>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/" data-aos="fade-right" data-aos-duration="1000">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:produtor.rulomania1998@gmail.com" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="400">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
