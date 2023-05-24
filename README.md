@@ -44,6 +44,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=transparent&layout=compact&hide_border=true" alt="RaulAltamirano" />
   </a>
 </div>
+
 <br/>
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
