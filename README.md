@@ -8,7 +8,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1092F7FF&size=40&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Raul!;I'm+a+Full+Stack+JavaScript+Developer;Welcome%21+%F0%9F%91%8B&font=Montserrat)
 
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=&logo=python&logoColor=white)&nbsp;
@@ -43,19 +42,5 @@
 </div>
 <br/>
 <h3 align="center">Connect with me:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/" data-aos="fade-right" data-aos-duration="1000">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:produtor.rulomania1998@gmail.com" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="400">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-<script>
-  AOS.init();
-</script>
+<div align="center" id="socialIcons"></div>
+<script src="script.js"></script>
