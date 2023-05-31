@@ -6,7 +6,7 @@
   </a>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1092F7FF&size=40&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Raul!;I'm+a+Full+Stack+JavaScript+Developer;Welcome%21+%F0%9F%91%8B&font=Montserrat)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1092F7FF&size=40&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Raul!;I'm+a+Full+Stack+Developer;Welcome%21+%F0%9F%91%8B&font=Montserrat)
 
 ### 🛠 &nbsp;Tech Stack
 
