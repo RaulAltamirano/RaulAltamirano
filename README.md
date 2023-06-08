@@ -57,7 +57,7 @@
   <a href="#" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:produtor.rulomania1998@gmail.com" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="400">
+  <a href="altamirano.developer@gmail.com" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="400">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
