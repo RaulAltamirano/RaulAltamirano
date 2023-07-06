@@ -17,6 +17,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
