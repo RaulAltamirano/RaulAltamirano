@@ -48,6 +48,8 @@
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=transparent&layout=compact&hide_border=true" alt="RaulAltamirano" />
   </a>
+</div>
+<div align="center">
   <a>
     <img align="center" src="https://www.codewars.com/users/RaulAltamirano/badges/large" alt="RaulAltamirano" />
   </a>
