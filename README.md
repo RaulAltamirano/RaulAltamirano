@@ -51,7 +51,7 @@
 </div>
 <div align="center">
   <a>
-    <img align="center" src="https://www.codewars.com/users/RaulAltamirano/badges/large" alt="RaulAltamirano" />
+    <img align="center" src="https://www.codewars.com/users/lPacman/badges/large" alt="RaulAltamirano" />
   </a>
 </div>
 
