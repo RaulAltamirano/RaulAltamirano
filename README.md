@@ -1,71 +1,158 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
-
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1092F7&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=fff&animation=twinkling"/>
   </a>
 </div>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1092F7FF&size=40&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Raul!;I'm+a+Full+Stack+Developer;Welcome%21+%F0%9F%91%8B&font=Montserrat)
-
-### 🛠 &nbsp;Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
-![NestJs](https://img.shields.io/badge/-NestJs-DC0230?style=flat&logo=nestjs&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Pinia](https://img.shields.io/badge/-Pinia-48C788?style=flat&logo=pinia&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![PSQL](https://img.shields.io/badge/-PSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-
-### 📈 &nbsp;Github Statistics
-<br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6673ffFF&size=35&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Raul!;Passionate+Developer+%F0%9F%92%BB;Welcome+to+my+universe!+%F0%9F%8C%8C;Crafting+digital+experiences+%F0%9F%9A%80;Always+learning%2C+always+growing!+%F0%9F%8C%B1&font=Fira%20Code"/>
+</h1>
+<p align="center">
+  <a href="https://github.com/RaulAltamirano?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RaulAltamirano?color=6673ff&labelColor=4856d9&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RaulAltamirano?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RaulAltamirano?color=6673ff&style=for-the-badge&labelColor=4856d9&logo=star"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RaulAltamirano&style=for-the-badge&color=6673ff"/>
+</p>
 <div align="center">
-  <a href="https://github.com/RaulAltamirano">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/RaulAltamirano">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAltamirano&theme=transparent&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=transparent&layout=compact&hide_border=true" alt="RaulAltamirano" />
-  </a>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador">
 </div>
+
+## 🚀 About Me
+
+```typescript
+interface Developer {
+    name: string;
+    role: string;
+    languages: string[];
+    frontendStack: TechStack;
+    backendStack: TechStack;
+    infrastructure: string[];
+    currentlyLearning: string[];
+    funFact: string;
+}
+
+interface TechStack {
+    languages: string[];
+    frameworks: string[];
+    stateManagement: string[];
+    styling: string[];
+    testing: string[];
+    tools: string[];
+}
+
+const raul: Developer = {
+    name: "Raul Altamirano",
+    role: "Full Stack Developer",
+    languages: ["TypeScript", "JavaScript", "Python", "SQL", "Go"],
+    frontendStack: {
+        languages: ["TypeScript", "JavaScript"],
+        frameworks: ["React", "Vue.js", "Next.js", "Nuxt.js", "Quasar", "Ionic"],
+        stateManagement: ["Redux", "Pinia", "Vuex", "Recoil", "MobX", "Jotai"],
+        styling: ["Tailwind CSS", "SASS/SCSS", "Styled Components", "CSS Modules"],
+        testing: ["Jest", "React Testing Library", "Cypress", "Vitest"],
+        tools: ["Webpack", "Vite", "ESLint", "Prettier"]
+    },
+    backendStack: {
+        languages: ["Node.js", "Python", "Go"],
+        frameworks: ["NestJS", "Express", "Django", "FastAPI"],
+        stateManagement: ["Redux-Saga", "RxJS"],
+        styling: [],
+        testing: ["Jest", "Supertest", "Pytest"],
+        tools: ["Swagger", "Postman", "Insomnia"]
+    },
+    infrastructure: [
+        "AWS", "Docker", "Kubernetes",
+        "Redis", "Elasticsearch", "MongoDB",
+        "PostgreSQL", "MySQL", "RabbitMQ"
+    ],
+    currentlyLearning: ["Rust", "WebAssembly", "Machine Learning"],
+    funFact: "I debug with console.log and I'm proud of it! 🐛"
+};
+```
+
+## 💻 Tech Universe
+
 <div align="center">
-  <a>
-    <img align="center" src="https://www.codewars.com/users/lPacman/badges/large" alt="RaulAltamirano" />
+
+### 🎨 Frontend Ecosystem
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+### 📊 State Management
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+
+### ⚡ Backend & API
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🛢️ Database & Cache
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<!-- Animated Stats Cards -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6673ff&icon_color=6673ff"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=tokyonight&hide_border=true&background=0d1117&ring=6673ff&fire=6673ff&currStreakLabel=6673ff"/>
+</p>
+
+<!-- Animated Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaulAltamirano&bg_color=0d1117&color=6673ff&line=6673ff&point=ffffff&area=true&hide_border=true"/>
+</div>
+
+## 🏆 Achievements Wall
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RaulAltamirano&theme=discord&no-frame=true&no-bg=true&row=1&column=7"/>
+  
+  <!-- CodeWars Badge -->
+  <img src="https://www.codewars.com/users/lPacman/badges/large" alt="Codewars"/>
+  
+  <!-- HackerRank Badge -->
+  <a href="https://www.hackerrank.com/your_username">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </div>
 
-<br/>
-<h3 align="center">Connect with me:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/" data-aos="fade-right" data-aos-duration="1000">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:altamirano.developer@gmail.com" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="400">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:altamirano.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6673ff?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Code%20Together!&fontSize=40&fontColor=fff&animation=twinkling"/>
 </div>
 
+<!-- Snake Animation -->
+![Snake animation](https://github.com/{undefined}/{undefined}/blob/output/github-contribution-grid-snake-dark.svg)
