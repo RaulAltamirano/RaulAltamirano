@@ -136,7 +136,7 @@ const raul: Developer = {
   <img src="https://www.codewars.com/users/lPacman/badges/large" alt="Codewars"/>
   
   <!-- HackerRank Badge -->
-  <a href="https://www.hackerrank.com/your_username">
+  <a href="https://www.hackerrank.com/@rulomania2011">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </div>
@@ -155,4 +155,4 @@ const raul: Developer = {
 </div>
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/{undefined}/{undefined}/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/RaulAltamirano/RaulAltamirano/blob/output/github-contribution-grid-snake.svg)
