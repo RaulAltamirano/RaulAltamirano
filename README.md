@@ -153,6 +153,3 @@ const raul: Developer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Code%20Together!&fontSize=40&fontColor=fff&animation=twinkling"/>
 </div>
-
-<!-- Snake Animation -->
-![Snake animation](https://github.com/RaulAltamirano/RaulAltamirano/blob/output/github-contribution-grid-snake.svg)
