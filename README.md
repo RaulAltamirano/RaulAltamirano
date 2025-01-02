@@ -68,7 +68,7 @@ const raul: Developer = {
         "Redis", "Elasticsearch", "MongoDB",
         "PostgreSQL", "MySQL", "RabbitMQ"
     ],
-    currentlyLearning: ["Rust", "WebAssembly", "Machine Learning"],
+    currentlyLearning: ["Java", "SpringBoot", "Rust"],
     funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
