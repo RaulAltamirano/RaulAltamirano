@@ -8,9 +8,7 @@
   </a>
 </div>
 
-<!-- Animated Tech Stack Section -->
 <div align="center">  
-  <!-- Animated Tech Stack Cards -->
   <div align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
@@ -25,7 +23,6 @@
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" height="80" alt="Kubernetes" />
   </div>
 
-<!-- Additional Decorative Elements -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
