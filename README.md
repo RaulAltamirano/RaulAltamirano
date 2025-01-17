@@ -2,12 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,4,12,16,24&height=300&section=header&text=Fullstack%20Architect&fontSize=80&fontColor=fff&animation=fadeIn&desc=Building%20Digital%20Dreams%20Into%20Reality&descAlignY=65&descSize=25"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=835&lines=Hi+there%2C+I%E2%80%99m+Raul!+%F0%9F%91%8B;Crafting+Code+%26+Creating+Solutions+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F;Let's+Build+Something+Extraordinary+%E2%9C%A8;Innovation+Through+Technology+%F0%9F%94%AE" alt="Typing SVG" />
-  </a>
-</div>
-
 <div align="center">  
   <div align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
