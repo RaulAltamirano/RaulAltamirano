@@ -104,6 +104,21 @@ const expertise = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaulAltamirano&custom_title=Contribution%20Graph&bg_color=0D1117&color=6673ff&line=6673ff&point=FFFFFF&area_color=6673ff&area=true&hide_border=true&radius=16"/>
 </div>
 
+### 🌟 Programming Challenges
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/RaulAltamirano?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
+</div>
+
+<div align="center">
+  <img src="https://www.codewars.com/users/lPacman/badges/large" alt="Codewars Stats" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Stats" />
+</div>
+
+
 ## 🌐 Featured Projects
 
 <div align="center">
