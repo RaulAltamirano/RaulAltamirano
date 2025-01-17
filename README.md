@@ -98,10 +98,10 @@ const expertise = {
 ## 🌐 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/RaulAltamirano/project1">
+  <a href="https://github.com/RaulAltamirano/syntiIQ">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=project1&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
   </a>
-  <a href="https://github.com/RaulAltamirano/project2">
+  <a href="https://github.com/RaulAltamirano/WalletWise">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=project2&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
   </a>
 </div>
