@@ -8,8 +8,26 @@
   </a>
 </div>
 
+<!-- Animated Tech Stack Section -->
+<div align="center">  
+  <!-- Animated Tech Stack Cards -->
+  <div align="center">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" height="80" alt="Nginx" />
+  </div>
+  
+  <div align="center">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" alt="AWS" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" height="80" alt="Kubernetes" />
+  </div>
+
+<!-- Additional Decorative Elements -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
 ## 🌟 Tech Expertise
@@ -99,10 +117,10 @@ const expertise = {
 
 <div align="center">
   <a href="https://github.com/RaulAltamirano/syntiIQ">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=project1&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=syntiIQ&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
   </a>
   <a href="https://github.com/RaulAltamirano/WalletWise">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=project2&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=WalletWise&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
   </a>
 </div>
 
