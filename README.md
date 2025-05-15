@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Raúl Altamirano</h1>
+  <h1>Undefined</h1>
   <p><em>Where code meets creativity and problems fade away</em></p>
 </div>
 
