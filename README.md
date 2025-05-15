@@ -1,145 +1,72 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,4,12,16,24&height=300&section=header&text=Fullstack%20Architect&fontSize=80&fontColor=fff&animation=fadeIn&desc=Building%20Digital%20Dreams%20Into%20Reality&descAlignY=65&descSize=25"/>
+  <h1>Raúl Altamirano</h1>
+  <p><em>Where code meets creativity and problems fade away</em></p>
 </div>
 
-<div align="center">  
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" height="80" alt="Nginx" />
-  </div>
-  
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" alt="AWS" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" height="80" alt="Kubernetes" />
-  </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+## 👨‍💻 My Philosophy
+
+I transform lines of code into experiences that matter. I don't just build software; I create solutions that solve real problems while exploring the boundaries of what's possible with each project.
+
+## 🛠️ Tech Arsenal
+
+### Frontend
+- **Frameworks:** React for structure, Vue.js for experimentation, Next.js for performance
+- **Styling:** Tailwind for speed, Styled Components for dynamism, SASS for complexity
+- **Specialty:** Interfaces that breathe, performance that impresses, experiences that last
+
+### Backend
+- **Languages:** Node.js for speed, Python for clarity, Go for power
+- **Frameworks:** NestJS when structure matters, FastAPI for frictionless APIs, Express for freedom
+- **Data:** PostgreSQL for relationships, MongoDB for flexibility, Redis for velocity
+
+### DevOps
+- **Clouds:** AWS to scale, GCP to innovate, Azure to integrate
+- **Containers:** Docker to isolate, Kubernetes to orchestrate
+- **Automation:** Pipelines that unleash creativity and eliminate human error
+
+## 📊 Digital Footprint
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
-## 🌟 Tech Expertise
-
-<div align="center">
-
-```mermaid
-%%{
-  init: {
-    'theme': 'dark',
-    'themeVariables': {
-      'primaryColor': '#6673ff',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#6673ff',
-      'lineColor': '#6673ff',
-      'secondaryColor': '#2f3136',
-      'tertiaryColor': '#444'
-    }
-  }
-}%%
-graph TD
-    A[Fullstack Mastery] --> B[Frontend Magic]
-    A --> C[Backend Power]
-    A --> D[DevOps Excellence]
-    B --> E[React/Vue Wizard]
-    B --> F[UI/UX Expert]
-    C --> G[Node.js Ninja]
-    C --> H[Python/Go Pro]
-    D --> I[Cloud Architect]
-    D --> J[CI/CD Master]
-    style A fill:#6673ff,stroke:#fff,stroke-width:2px
-    style B fill:#4CAF50,stroke:#fff,stroke-width:2px
-    style C fill:#2196F3,stroke:#fff,stroke-width:2px
-    style D fill:#9C27B0,stroke:#fff,stroke-width:2px
-```
-
-</div>
-
-## 🚀 Journey Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&bg_color=00000000&title_color=6673ff&text_color=FFFFFF&icon_color=6673ff&hide_border=true&border_radius=20&rank_icon=github">
-      </td>
-      <td>
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=transparent&hide_border=true&border_radius=20&ring=6673ff&fire=ff6b6b&currStreakLabel=6673ff&sideLabels=6673ff">
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 💫 Skills Matrix
-
-```typescript
-const expertise = {
-  frontend: {
-    frameworks: ['⚛️ React', '💚 Vue.js', '⏭️ Next.js', '💠 Nuxt.js'],
-    styling: ['🎨 Tailwind', '💅 Styled Components', '📐 SASS'],
-    tools: ['📱 Responsive Design', '🔍 SEO Optimization', '🎭 Animations']
-  },
-  backend: {
-    core: ['🟢 Node.js', '🐍 Python', '🔵 Go'],
-    frameworks: ['🛡️ NestJS', '⚡ FastAPI', '🚂 Express'],
-    databases: ['🐘 PostgreSQL', '🍃 MongoDB', '🔴 Redis']
-  },
-  devOps: {
-    cloud: ['☁️ AWS', '🌐 GCP', '📦 Azure'],
-    tools: ['🐳 Docker', '⛵ Kubernetes', '🔄 CI/CD'],
-    monitoring: ['📊 Grafana', '🔍 ELK Stack', '📈 Prometheus']
-  }
-} as const;
-```
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaulAltamirano&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaulAltamirano&custom_title=Contribution%20Graph&bg_color=0D1117&color=6673ff&line=6673ff&point=FFFFFF&area_color=6673ff&area=true&hide_border=true&radius=16"/>
-</div>
-
-### 🌟 Programming Challenges
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/RaulAltamirano?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
-</div>
-
-<div align="center">
-  <img src="https://www.codewars.com/users/lPacman/badges/large" alt="Codewars Stats" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Stats" />
-</div>
-
-
-## 🌐 Featured Projects
+## 🌟 Featured Creations
 
 <div align="center">
   <a href="https://github.com/RaulAltamirano/syntiIQ">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=syntiIQ&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=syntiIQ&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/RaulAltamirano/WalletWise">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=WalletWise&theme=aura&bg_color=00000000&title_color=6673ff&icon_color=ff6b6b&hide_border=true&show_icons=true"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=WalletWise&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-## 🤝 Connect With Me
+## 💻 Challenges Conquered
+
+<div align="center">
+  <img src="https://www.codewars.com/users/lPacman/badges/large" alt="Codewars" />
+</div>
+
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raúl-altamirano-lozano-954281247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:altamirano.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-Write_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-6673ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6673ff"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-6673ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
