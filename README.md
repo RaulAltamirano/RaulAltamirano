@@ -58,10 +58,6 @@
   <img src="https://www.codewars.com/users/lPacman/badges/large" alt="Codewars" />
 </div>
 
-## 🔮 Code Philosophy
-
-I believe that elegant code isn't just about what works, but what lasts. Every function I write is a love letter to the developer who'll maintain it later (often future me, cursing past me).
-
 ## 🤝 Join My Network
 
 <div align="center">
