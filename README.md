@@ -67,7 +67,7 @@
   <a href="mailto:altamirano.developer@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop_a_line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://github.com/RaulAltamirano/my-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-See_my_work-6673ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
