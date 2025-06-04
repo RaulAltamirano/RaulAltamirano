@@ -1,6 +1,6 @@
 # What's up! I'm Raúl 👋
 
-> **Caffeine-powered code wizard.** Turning crazy ideas into cool apps.
+>  **I don’t need therapy—I just need my code to compile on the first try.** (Spoiler: Never happens).
 
 <div align="center">
 
