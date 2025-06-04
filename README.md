@@ -66,20 +66,6 @@ When I'm not coding, I'm learning new tech. Or helping other devs. Or dreaming u
 
 ---
 
-## 🎯 Stuff I'm Actually Proud Of
-
-<div align="center">
-
-<a href="https://github.com/RaulAltamirano/syntiIQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=syntiIQ&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/RaulAltamirano/WalletWise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaulAltamirano&repo=WalletWise&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 ## 🥷 Where I sharpen my skills
 
 <div align="center">
