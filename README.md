@@ -2,9 +2,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raúl-altamirano-lozano-954281247/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altamirano.developer@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RaulAltamirano/my-portfolio)  
+<a href="https://www.linkedin.com/in/raúl-altamirano-lozano-954281247/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:altamirano.developer@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/RaulAltamirano/my-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
@@ -41,8 +47,13 @@
 
 <div align="center">
 
-[![Codewars](https://www.codewars.com/users/lPacman/badges/large)](https://www.codewars.com/users/lPacman)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/RaulAltamirano)  
+<a href="https://www.codewars.com/users/lPacman">
+  <img src="https://www.codewars.com/users/lPacman/badges/large" />
+</a>
+<br/><br/>
+<a href="https://leetcode.com/RaulAltamirano">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
 </div>
 
@@ -52,8 +63,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raúl-altamirano-lozano-954281247/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altamirano.developer@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RaulAltamirano/my-portfolio)  
+<a href="https://www.linkedin.com/in/raúl-altamirano-lozano-954281247/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:altamirano.developer@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/RaulAltamirano/my-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
