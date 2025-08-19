@@ -1,39 +1,31 @@
-<!-- banner.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Raúl Altamirano — Full-Stack Developer">
   <defs>
-    <!-- Fondo suave -->
+    <!-- Fondo degradado -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#101322"/>
-      <stop offset="100%" stop-color="#171c33"/>
+      <stop offset="0%" stop-color="#0f0f17"/>
+      <stop offset="100%" stop-color="#181826"/>
     </linearGradient>
 
-    <!-- Patrón de puntos sutil -->
-    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#2a2f4a" opacity="0.6"/>
+    <!-- Patrón sutil -->
+    <pattern id="dots" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#3f3a4d" opacity="0.4"/>
     </pattern>
 
-    <!-- Gradiente acento para subrayado -->
+    <!-- Gradiente púrpura para acento -->
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7aa2f7"/>
-      <stop offset="100%" stop-color="#a6da95"/>
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
 
-    <!-- Estilos -->
     <style>
       .title {
-        font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+        font-family: Inter, system-ui, sans-serif;
         font-weight: 700;
         letter-spacing: 0.5px;
       }
       .subtitle {
-        font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-        font-weight: 500;
-        letter-spacing: 0.2px;
-      }
-      /* Adaptación básica a modo claro (si GitHub lo respeta en tu entorno) */
-      @media (prefers-color-scheme: light) {
-        .title { fill: #111827; }
-        .subtitle { fill: #374151; }
+        font-family: Inter, system-ui, sans-serif;
+        font-weight: 400;
       }
     </style>
   </defs>
@@ -42,22 +34,17 @@
   <rect width="1200" height="280" fill="url(#bg)"/>
   <rect width="1200" height="280" fill="url(#dots)" opacity="0.35"/>
 
-  <!-- Detalle geométrico minimal -->
-  <g opacity="0.18">
-    <circle cx="1060" cy="70" r="120" fill="#7aa2f7"/>
-    <circle cx="1120" cy="220" r="80" fill="#a6da95"/>
-  </g>
+  <!-- Detalles decorativos -->
+  <circle cx="1050" cy="80" r="130" fill="#8b5cf6" opacity="0.07"/>
+  <circle cx="1150" cy="230" r="90" fill="#c084fc" opacity="0.06"/>
+  <rect x="0" y="0" width="1200" height="280" fill="url(#dots)" opacity="0.15"/>
 
-  <!-- Contenido -->
-  <g transform="translate(80, 92)">
-    <text class="title" x="0" y="0" font-size="48px" fill="#E5E7EB">Raúl Altamirano</text>
-    <!-- subrayado acento -->
-    <rect x="0" y="14" width="280" height="6" fill="url(#accent)" rx="3" />
-
-    <text class="subtitle" x="0" y="56" font-size="20px" fill="#C7D2FE">
-      Full-Stack Developer
-    </text>
-    <text class="subtitle" x="0" y="88" font-size="16px" fill="#A5B4FC">
+  <!-- Texto principal -->
+  <g transform="translate(80, 90)">
+    <text class="title" x="0" y="0" font-size="50" fill="#f3f4f6">Raúl Altamirano</text>
+    <rect x="0" y="12" width="310" height="6" fill="url(#accent)" rx="3" />
+    <text class="subtitle" x="0" y="60" font-size="22" fill="#d1d5db">Full-Stack Developer</text>
+    <text class="subtitle" x="0" y="95" font-size="18" fill="#a78bfa">
       React · TypeScript · Node.js · PostgreSQL · AWS · Docker
     </text>
   </g>
