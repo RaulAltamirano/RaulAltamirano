@@ -33,7 +33,7 @@
 
   <g transform="translate(180, 95)">
     <text class="title" x="0" y="0" font-size="36" fill="#f3f4f6">Contact</text>
-    <text class="info" x="0" y="40" font-size="20" fill="#d1d5db">raul.altamirano.dev@gmail.com</text>
+    <text class="info" x="0" y="40" font-size="20" fill="#d1d5db">altamirano.developer@gmail.com</text>
     <text class="info" x="0" y="70" font-size="18" fill="#a78bfa">LinkedIn · GitHub · Portafolio</text>
   </g>
 </svg>
