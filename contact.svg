@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Contacto - Raúl Altamirano">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0f17"/>
+      <stop offset="100%" stop-color="#181826"/>
+    </linearGradient>
+    
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#3f3a4d" opacity="0.4"/>
+    </pattern>
+
+    <style>
+      .title { font-family: Inter, sans-serif; font-weight: 700; }
+      .info { font-family: Inter, sans-serif; font-weight: 400; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#dots)" opacity="0.3"/>
+
+  <circle cx="1100" cy="50" r="90" fill="#8b5cf6" opacity="0.08"/>
+  <circle cx="1180" cy="190" r="60" fill="#c084fc" opacity="0.05"/>
+
+  <g transform="translate(80, 70)">
+    <rect x="0" y="0" width="70" height="50" rx="6" fill="url(#accent)" opacity="0.15"/>
+    <polyline points="0,0 35,25 70,0" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(180, 95)">
+    <text class="title" x="0" y="0" font-size="36" fill="#f3f4f6">Contact</text>
+    <text class="info" x="0" y="40" font-size="20" fill="#d1d5db">raul.altamirano.dev@gmail.com</text>
+    <text class="info" x="0" y="70" font-size="18" fill="#a78bfa">LinkedIn · GitHub · Portafolio</text>
+  </g>
+</svg>
