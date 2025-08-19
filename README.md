@@ -10,18 +10,6 @@
 
 </div>
 
----
-
-## 🤔 So... who am I?
-
-I'm that guy who gets way too excited about clean code. I stay up until 3am debugging stuff. I love building things that make people go "whoa, that's cool!" 
-
-When I'm not coding, I'm learning new tech. Or helping other devs. Or dreaming up the next big thing.
-
-**Currently obsessing over:** AI stuff and apps that scale to millions of users.
-
----
-
 ## 🎮 My Favorite Toys
 
 ### **Making things look pretty**
