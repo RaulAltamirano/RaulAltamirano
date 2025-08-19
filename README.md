@@ -47,8 +47,11 @@
 
 ## 📫 Contact  
 
-<div align="center">
+<p align="center">
+  <img src="./contact.svg" alt="Sección Contacto — Raúl Altamirano" />
+</p>
 
+<div align="center" style="margin-top: 12px;">
 <a href="https://www.linkedin.com/in/raúl-altamirano-lozano-954281247/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -58,5 +61,4 @@
 <a href="https://github.com/RaulAltamirano/my-portfolio">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-
 </div>
