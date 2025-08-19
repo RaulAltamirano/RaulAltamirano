@@ -1,17 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Raúl Altamirano — Full-Stack Developer">
   <defs>
-    <!-- Fondo degradado -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f0f17"/>
       <stop offset="100%" stop-color="#181826"/>
     </linearGradient>
 
-    <!-- Patrón sutil -->
     <pattern id="dots" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
       <circle cx="1" cy="1" r="1" fill="#3f3a4d" opacity="0.4"/>
     </pattern>
 
-    <!-- Gradiente púrpura para acento -->
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#8b5cf6"/>
       <stop offset="100%" stop-color="#c084fc"/>
@@ -30,16 +27,13 @@
     </style>
   </defs>
 
-  <!-- Fondo -->
   <rect width="1200" height="280" fill="url(#bg)"/>
   <rect width="1200" height="280" fill="url(#dots)" opacity="0.35"/>
 
-  <!-- Detalles decorativos -->
   <circle cx="1050" cy="80" r="130" fill="#8b5cf6" opacity="0.07"/>
   <circle cx="1150" cy="230" r="90" fill="#c084fc" opacity="0.06"/>
   <rect x="0" y="0" width="1200" height="280" fill="url(#dots)" opacity="0.15"/>
 
-  <!-- Texto principal -->
   <g transform="translate(80, 90)">
     <text class="title" x="0" y="0" font-size="50" fill="#f3f4f6">Raúl Altamirano</text>
     <rect x="0" y="12" width="310" height="6" fill="url(#accent)" rx="3" />
