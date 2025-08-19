@@ -1,4 +1,6 @@
-# Raúl Altamirano  
+<p align="center">
+  <img src="./banner.svg" alt="Raúl Altamirano — Full-Stack Developer" />
+</p>
 
 <div align="center">
 
@@ -13,7 +15,6 @@
 </a>
 
 </div>
-
 ---
 
 ## 🛠 Tech Stack  
