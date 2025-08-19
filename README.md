@@ -2,21 +2,6 @@
   <img src="./banner.svg" alt="Raúl Altamirano — Full-Stack Developer" />
 </p>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/raúl-altamirano-lozano-954281247/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:altamirano.developer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/RaulAltamirano/my-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
----
-
 ## 🛠 Tech Stack  
 
 **Frontend**  
