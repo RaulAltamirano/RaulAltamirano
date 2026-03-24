@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Contacto - Raúl Altamirano">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Contact — Raúl Altamirano">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f0f17"/>
@@ -34,6 +34,6 @@
   <g transform="translate(180, 95)">
     <text class="title" x="0" y="0" font-size="36" fill="#f3f4f6">Contact</text>
     <text class="info" x="0" y="40" font-size="20" fill="#d1d5db">altamirano.developer@gmail.com</text>
-    <text class="info" x="0" y="70" font-size="18" fill="#a78bfa">LinkedIn · GitHub · Portafolio</text>
+    <text class="info" x="0" y="70" font-size="18" fill="#a78bfa">Portfolio · LinkedIn · GitHub</text>
   </g>
 </svg>
