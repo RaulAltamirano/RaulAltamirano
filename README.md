@@ -41,16 +41,6 @@ I prioritize clear structure, maintainable code, and straightforward collaborati
 
 ---
 
-## Featured projects
-
-| Project | Description |
-|--------|-------------|
-| [**my-portfolio**](https://github.com/RaulAltamirano/my-portfolio) | Personal portfolio and showcase — front end, projects, and contact. |
-
-*Pin your best repositories on your GitHub profile so visitors see them next to this README.*
-
----
-
 ## GitHub overview
 
 <p align="center">
