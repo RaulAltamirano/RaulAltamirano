@@ -1,0 +1,190 @@
+<h2>Diseño: banner.svg</h2>
+<p class="subtitle">Header principal del README — Space Invaders marchando + nombre en neón</p>
+
+<div class="mockup">
+  <div class="mockup-header">banner.svg — Preview (1200×280px)</div>
+  <div class="mockup-body" style="background:#000;padding:30px;font-family:monospace;position:relative;overflow:hidden;">
+
+    <!-- Scanlines overlay simulado -->
+    <div style="position:absolute;top:0;left:0;right:0;bottom:0;background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,255,65,0.03) 3px,rgba(0,255,65,0.03) 4px);pointer-events:none;z-index:1"></div>
+
+    <!-- Dot pattern -->
+    <div style="position:absolute;top:0;left:0;right:0;bottom:0;background-image:radial-gradient(circle,#1a1a1a 1px,transparent 1px);background-size:24px 24px;pointer-events:none;opacity:0.4"></div>
+
+    <!-- Space Invaders row (pixel art SVG) -->
+    <svg viewBox="0 0 900 40" width="100%" style="display:block;margin-bottom:16px;position:relative;z-index:2" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .inv { fill: #00FF41; }
+        @keyframes march { 0%,100%{transform:translateX(0)} 50%{transform:translateX(8px)} }
+        .invaders { animation: march 0.8s steps(1) infinite; }
+      </style>
+      <g class="invaders">
+        <!-- Invader template repeated -->
+        <g class="inv" transform="translate(0,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(50,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(100,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(150,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(200,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(250,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(300,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(350,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(400,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(450,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(500,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(550,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(600,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(650,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(700,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(750,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(800,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+        <g class="inv" transform="translate(850,4)">
+          <rect x="8" y="0" width="4" height="4"/><rect x="20" y="0" width="4" height="4"/>
+          <rect x="4" y="4" width="24" height="4"/>
+          <rect x="8" y="8" width="16" height="4"/>
+          <rect x="4" y="12" width="4" height="4"/><rect x="24" y="12" width="4" height="4"/>
+          <rect x="0" y="16" width="4" height="4"/><rect x="28" y="16" width="4" height="4"/>
+        </g>
+      </g>
+    </svg>
+
+    <!-- Main title -->
+    <div style="position:relative;z-index:2;padding-left:16px">
+      <div style="font-size:42px;font-weight:900;color:#fff;letter-spacing:3px;text-shadow:0 0 20px #00FF41,0 0 40px #00FF41;line-height:1">
+        Raúl Altamirano
+      </div>
+      <!-- Neon underline -->
+      <div style="height:4px;width:320px;background:linear-gradient(90deg,#00FF41,#FF00FF);border-radius:2px;margin:8px 0;box-shadow:0 0 8px #00FF41"></div>
+      <div style="font-size:18px;color:#FF69B4;letter-spacing:4px;text-shadow:0 0 10px #FF69B4;margin-bottom:8px">
+        FULL-STACK DEVELOPER
+      </div>
+      <div style="font-size:13px;color:#00FFFF;letter-spacing:2px;text-shadow:0 0 6px #00FFFF">
+        React · TypeScript · Node.js · Go · PostgreSQL · AWS · Docker
+      </div>
+    </div>
+
+    <!-- Score top right -->
+    <div style="position:absolute;top:16px;right:24px;z-index:2;text-align:right">
+      <div style="color:#FFD700;font-size:10px;letter-spacing:2px">1UP</div>
+      <div style="color:#fff;font-size:18px;font-weight:bold">00000</div>
+      <div style="color:#888;font-size:9px;margin-top:4px">HI-SCORE</div>
+      <div style="color:#FFD700;font-size:14px">99999</div>
+    </div>
+
+  </div>
+</div>
+
+<div class="section">
+  <h3>Elementos del banner</h3>
+  <ul>
+    <li><strong>Fondo:</strong> Negro puro con overlay de puntos y scanlines CRT sutiles</li>
+    <li><strong>Fila superior:</strong> Space Invaders en pixel art verde neón — animación de marcha (CSS steps)</li>
+    <li><strong>Nombre:</strong> Blanco con glow verde, underline degradado verde→magenta</li>
+    <li><strong>Subtítulo:</strong> Rosa/magenta neón con glow</li>
+    <li><strong>Tech keywords:</strong> Cyan neón</li>
+    <li><strong>Score corner:</strong> 1UP / HI-SCORE en esquina superior derecha (toque arcade)</li>
+  </ul>
+</div>
+
+<p class="subtitle">¿Este diseño de banner te parece bien? Responde en la terminal</p>

@@ -1,0 +1,98 @@
+<h2>¿Qué tema de videojuego quieres para tu README?</h2>
+<p class="subtitle">Elige el universo visual que definirá todo el diseño</p>
+
+<div class="cards">
+
+  <div class="card" data-choice="pacman" onclick="toggleSelect(this)">
+    <div class="card-image" style="background:#000;padding:20px;text-align:center;font-size:14px;font-family:monospace;">
+      <svg viewBox="0 0 120 60" width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+        <!-- Pacman -->
+        <circle cx="30" cy="30" r="22" fill="#FFD700"/>
+        <path d="M30,30 L52,18 A22,22 0 1,0 52,42 Z" fill="#000"/>
+        <!-- Eye -->
+        <circle cx="30" cy="18" r="3" fill="#000"/>
+        <!-- Dots -->
+        <circle cx="70" cy="30" r="4" fill="#FFD700"/>
+        <circle cx="90" cy="30" r="4" fill="#FFD700"/>
+        <circle cx="110" cy="30" r="4" fill="#FFD700"/>
+        <!-- Ghost -->
+        <ellipse cx="75" cy="30" r="0" fill="none"/>
+      </svg>
+      <div style="color:#FFD700;margin-top:8px;font-size:16px;letter-spacing:2px">● ● ● PAC-MAN</div>
+      <div style="color:#FF69B4;margin-top:4px;font-size:11px">BLINKY   PINKY   INKY   CLYDE</div>
+    </div>
+    <div class="card-body">
+      <h3>Pac-Man</h3>
+      <p>Laberinto amarillo, fantasmas de colores, puntos animados. Tonos negros y amarillos. Icónico y reconocible al instante.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="mario" onclick="toggleSelect(this)">
+    <div class="card-image" style="background:#5C94FC;padding:20px;text-align:center;font-family:monospace;">
+      <svg viewBox="0 0 180 70" width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+        <!-- Ground blocks -->
+        <rect x="0" y="50" width="180" height="20" fill="#C84C0C"/>
+        <rect x="20" y="50" width="180" height="2" fill="#E86820" opacity="0.5"/>
+        <!-- Brick lines -->
+        <line x1="0" y1="55" x2="180" y2="55" stroke="#A33C08" stroke-width="1"/>
+        <line x1="0" y1="65" x2="180" y2="65" stroke="#A33C08" stroke-width="1"/>
+        <line x1="20" y1="50" x2="20" y2="70" stroke="#A33C08" stroke-width="1"/>
+        <line x1="60" y1="50" x2="60" y2="70" stroke="#A33C08" stroke-width="1"/>
+        <line x1="100" y1="50" x2="100" y2="70" stroke="#A33C08" stroke-width="1"/>
+        <line x1="140" y1="50" x2="140" y2="70" stroke="#A33C08" stroke-width="1"/>
+        <!-- ? Block -->
+        <rect x="70" y="10" width="24" height="24" fill="#C84C0C" rx="2"/>
+        <text x="82" y="27" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="16" font-weight="bold">?</text>
+        <!-- Mario (simple) -->
+        <rect x="20" y="30" width="14" height="20" fill="#E82010"/>
+        <rect x="18" y="22" width="18" height="12" fill="#E82010"/>
+        <rect x="22" y="20" width="10" height="4" fill="#C88020"/>
+        <circle cx="27" cy="26" r="7" fill="#C88020"/>
+        <!-- Mario face details -->
+        <rect x="30" y="24" width="4" height="3" fill="#000" opacity="0.3"/>
+        <!-- Mushroom -->
+        <circle cx="150" cy="30" r="12" fill="#FF0000"/>
+        <rect x="142" y="30" width="16" height="14" fill="#FFEECC"/>
+        <circle cx="144" cy="26" r="3" fill="#FFE0E0"/>
+        <circle cx="156" cy="24" r="3" fill="#FFE0E0"/>
+      </svg>
+      <div style="color:#FFD700;margin-top:4px;font-size:13px;letter-spacing:2px;text-shadow:2px 2px #8B0000">SUPER MARIO</div>
+    </div>
+    <div class="card-body">
+      <h3>Super Mario</h3>
+      <p>Bloques de ladrillos, monedas, hongos y cielo azul. Colores vibrantes de 8-bit. Energético y nostálgico.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="mix" onclick="toggleSelect(this)">
+    <div class="card-image" style="background:linear-gradient(135deg,#000 0%,#1a0033 50%,#001a33 100%);padding:20px;text-align:center;font-family:monospace;">
+      <svg viewBox="0 0 180 70" width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+        <!-- Space invader -->
+        <rect x="20" y="10" width="6" height="6" fill="#00FF41"/>
+        <rect x="32" y="10" width="6" height="6" fill="#00FF41"/>
+        <rect x="14" y="16" width="6" height="6" fill="#00FF41"/>
+        <rect x="20" y="16" width="18" height="6" fill="#00FF41"/>
+        <rect x="38" y="16" width="6" height="6" fill="#00FF41"/>
+        <rect x="14" y="22" width="30" height="6" fill="#00FF41"/>
+        <rect x="20" y="28" width="6" height="6" fill="#00FF41"/>
+        <rect x="32" y="28" width="6" height="6" fill="#00FF41"/>
+        <!-- Pacman small -->
+        <circle cx="100" cy="25" r="14" fill="#FFD700"/>
+        <path d="M100,25 L114,18 A14,14 0 1,0 114,32 Z" fill="#1a0033"/>
+        <circle cx="100" cy="15" r="2" fill="#1a0033"/>
+        <!-- Mario coin -->
+        <circle cx="150" cy="22" r="12" fill="#C84C0C" stroke="#FFD700" stroke-width="2"/>
+        <text x="150" y="27" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="14" font-weight="bold">$</text>
+        <!-- Text -->
+      </svg>
+      <div style="color:#00FF41;margin-top:4px;font-size:11px;letter-spacing:3px">ARCADE ✦ RETRO ✦ MIX</div>
+    </div>
+    <div class="card-body">
+      <h3>Arcade Retro Mix</h3>
+      <p>Pac-Man + Mario + Space Invaders combinados. Tema oscuro con neón verde/amarillo. Máxima personalidad gamer.</p>
+    </div>
+  </div>
+
+</div>
+
+<p class="subtitle" style="margin-top:16px">Haz clic en tu opción favorita, luego responde en la terminal</p>
