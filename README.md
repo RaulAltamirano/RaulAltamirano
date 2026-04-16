@@ -1,87 +1,143 @@
-<p align="center">
-  <img src="./banner.svg" alt="Raúl Altamirano — Full-Stack Developer" />
-</p>
+<div align="center">
 
-## About me
+```
+██████╗  █████╗ ██╗   ██╗██╗
+██╔══██╗██╔══██╗██║   ██║██║
+██████╔╝███████║██║   ██║██║
+██╔══██╗██╔══██║██║   ██║██║
+██║  ██║██║  ██║╚██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
 
-I'm a **full-stack developer** who ships end-to-end web products: interfaces with **React**, **Next.js**, **Vue**, **Nuxt**, and **TypeScript**; services with **Node.js**, **Python**, and **Go**; data on **PostgreSQL**, **MongoDB**, and **Redis**; and delivery on **AWS** with **Docker**, **Kubernetes**, and **GitHub Actions**.
+### Full-Stack Developer · Building end-to-end web products
 
-I prioritize clear structure, maintainable code, and straightforward collaboration. **Working languages:** English and Spanish.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DC82&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+Vue+%7C+Nuxt;Node.js+%7C+Python+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Redis;AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:altamirano.developer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/RaulAltamirano/my-portfolio)
+[![Profile Views](https://komarev.com/ghpvc/?username=RaulAltamirano&style=flat-square&color=00DC82)](https://github.com/RaulAltamirano)
+
+</div>
 
 ---
 
-## Tech stack
+## 👨‍💻 About Me
+
+I'm a full-stack developer who ships complete web products — from pixel-perfect interfaces to robust APIs and cloud infrastructure. I care about clean architecture, maintainable code, and efficient collaboration.
+
+- 🚀 Building scalable systems end-to-end
+- 🌐 Comfortable in **English** and **Spanish**
+- 🔍 Currently exploring: distributed systems & AI-powered tooling
+- 📬 Open to freelance projects and full-time opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Frontend**
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Databases & cloud**
+</td>
+<td valign="top" width="50%">
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+**Databases & Cloud**
 
-**DevOps & tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+**DevOps & Tooling**
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## GitHub overview
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for RaulAltamirano" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAltamirano&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub for RaulAltamirano" />
-</p>
-
----
-
-## Practice & problem solving
-
-<p align="center">
-  <a href="https://www.codewars.com/users/lPacman">
-    <img src="https://www.codewars.com/users/lPacman/badges/large" alt="Codewars profile badge for lPacman" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/RaulAltamirano">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode — RaulAltamirano" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./contact.svg" alt="Contact — Raúl Altamirano, email and links" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RaulAltamirano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAltamirano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:altamirano.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/RaulAltamirano/my-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio repository" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaulAltamirano&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center"><sub>Interested in collaborating or hiring? Reach out by email or LinkedIn — I usually reply within a few days.</sub></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaulAltamirano&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🧩 Problem Solving
+
+<div align="center">
+
+[![Codewars](https://www.codewars.com/users/lPacman/badges/large)](https://www.codewars.com/users/lPacman)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/RaulAltamirano)
+
+</div>
+
+---
+
+## 🏗️ What I Build
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   USER  ──▶  React / Next.js / Vue / Nuxt  ──▶  REST / GraphQL │
+│                                                                   │
+│   API   ──▶  Node.js / Python / Go          ──▶  PostgreSQL      │
+│                                                   MongoDB        │
+│   INFRA ──▶  Docker / K8s / GitHub Actions  ──▶  Redis / AWS    │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm open to **freelance projects**, **full-time roles**, and **technical collaborations**.
+Reach out — I usually reply within a few days.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-altamirano-lozano-954281247/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altamirano.developer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RaulAltamirano/my-portfolio)
+
+---
+
+<sub>⚡ Raúl Altamirano · Full-Stack Developer · English & Spanish</sub>
+
+</div>
