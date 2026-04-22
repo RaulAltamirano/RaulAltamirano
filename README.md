@@ -1,12 +1,11 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ██╗   ██╗██╗
-██╔══██╗██╔══██╗██║   ██║██║
-██████╔╝███████║██║   ██║██║
-██╔══██╗██╔══██║██║   ██║██║
-██║  ██║██║  ██║╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+  ____      _   _   _ _     
+ |  _ \    / \ | | | | |    
+ | |_) |  / _ \| | | | |    
+ |  _ <  / ___ \ |_| | |___ 
+ |_| \_\/_/   \_\___/|_____|
 ```
 
 ### Full-Stack Developer · Building end-to-end web products
@@ -106,22 +105,6 @@ I'm a full-stack developer who ships complete web products — from pixel-perfec
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/RaulAltamirano)
 
 </div>
-
----
-
-## 🏗️ What I Build
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   USER  ──▶  React / Next.js / Vue / Nuxt  ──▶  REST / GraphQL │
-│                                                                   │
-│   API   ──▶  Node.js / Python / Go          ──▶  PostgreSQL      │
-│                                                   MongoDB        │
-│   INFRA ──▶  Docker / K8s / GitHub Actions  ──▶  Redis / AWS    │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
