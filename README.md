@@ -123,6 +123,6 @@ Reach out — I usually reply within a few days.
 
 ---
 
-<sub>⚡ Raúl Altamirano · Full-Stack Developer · English & Spanish</sub>
+<sub>⚡ undefined Altamirano · Full-Stack Developer · English & Spanish</sub>
 
 </div>
